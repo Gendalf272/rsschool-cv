@@ -1,3 +1,5 @@
 # rsschool-cv
 
-https://Gendalf272.github.io/rsschool-cv/cv
+
+
+Задание 2   https://Gendalf272.github.io/rsschool-cv/
